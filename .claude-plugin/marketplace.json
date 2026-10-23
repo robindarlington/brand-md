@@ -1,0 +1,16 @@
+{
+  "name": "brand-md",
+  "owner": {
+    "name": "Brand Compass"
+  },
+  "metadata": {
+    "description": "The BRAND.md skill: brand guidelines that coding agents can follow."
+  },
+  "plugins": [
+    {
+      "name": "brand-md",
+      "source": "./",
+      "description": "Create, update and follow BRAND.md: a project's brand guidelines in its owner's words, for coding agents."
+    }
+  ]
+}

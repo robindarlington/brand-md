@@ -1,0 +1,12 @@
+{
+  "name": "brand-md",
+  "version": "0.1.0",
+  "description": "Create, update and follow BRAND.md: a project's brand guidelines in its owner's words, for coding agents.",
+  "author": {
+    "name": "Brand Compass"
+  },
+  "homepage": "https://github.com/robindarlington/brand-md",
+  "repository": "https://github.com/robindarlington/brand-md",
+  "license": "MIT",
+  "keywords": ["brand", "branding", "brand-guidelines", "brand-voice", "copywriting", "agents"]
+}
