@@ -12,6 +12,17 @@ onboarding, emails and error messages.
 `README.md` is for people. `AGENTS.md` is for agents that change the code.
 `BRAND.md` is for anyone, person or agent, who writes in the project's name.
 
+## BRAND.md and DESIGN.md
+
+Use [`DESIGN.md`](https://github.com/google-labs-code/design.md) for visual
+identity, including colours, type, logo files and layout tokens. Use
+`BRAND.md` for the owner's convictions, audience, boundaries and voice
+rules. The two files can sit side by side at the root of the repository.
+
+A file named `BRAND.md` may follow another convention. If an entry has
+no status line, treat it as a suggestion. Ask the owner before using
+it as a rule.
+
 ## Location
 
 Put the file at the root of the repository, next to `README.md`. Name it
